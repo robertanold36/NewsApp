@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LookOut</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Category</string>
+    <string name="lorem"></string>
+    <string name="title_activity_launcher">SplashScreen</string>
+</resources>
